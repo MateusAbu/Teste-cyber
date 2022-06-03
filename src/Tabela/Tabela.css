@@ -1,0 +1,16 @@
+.teste {
+    position: absolute;
+    width: 1052px;
+    height: 72px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+
+    /* Primary */
+
+    background: #1D2527;
+    border-radius: 6px;
+}
